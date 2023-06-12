@@ -31,7 +31,7 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "3f2cc0df138bc61d3592296d91bceb988eb64d83f6f3e20ce701ff66fb9b2dc915efc428d31e21910580b683474956c67fcb370a133203f7ddc849b3298c5f11",
+        "sha512sum": "9cc7904715a06cdc41da9fa167922e9d9127d581a4a4c3a4d35932b83a422aad98f7488d8cd14347da240cdc925e5b67986df61763ea0d592fb15607bcd443dd",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.3.1-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
@@ -61,7 +61,7 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "987d810e2367c0f56e6a06578aebe004c30cca26b925734d506ffd11a2c08d9e20f2736909fbf12b42ba389bc772980f55df8e941d3b2afaf086933e1be9b44a",
+        "sha512sum": "2509838326addcf534750b87e45b99408b855074bf2a2f8f1860410125b02eae7b00b27cbacc4d45706112c14dd5d448bcb807fb155679ffa95d4689d5a10d37",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/pipeline-template/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
@@ -76,7 +76,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "8e04aa825a648d6afabd59f11871cf2be0ae8e41707e0a91202f492d76118a3c4be54592fe3bc482d34b45d3d7e7da57e4566c74bda7dac662e85bf1e45f03d6",
+        "sha512sum": "b5de3b39304b6bb87a33af0e51b38db0e70c4de57658e12a185b31acf64cfcb6a7b718481e22398530279993f8279ef3d923cef4b9033ffd27e9c5f7f1536444",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.3.1-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
@@ -84,7 +84,7 @@
         "version": "1.0.2",
         "date": "2022-01-17T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "8e04aa825a648d6afabd59f11871cf2be0ae8e41707e0a91202f492d76118a3c4be54592fe3bc482d34b45d3d7e7da57e4566c74bda7dac662e85bf1e45f03d6",
+        "sha512sum": "b5de3b39304b6bb87a33af0e51b38db0e70c4de57658e12a185b31acf64cfcb6a7b718481e22398530279993f8279ef3d923cef4b9033ffd27e9c5f7f1536444",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.3.1-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
