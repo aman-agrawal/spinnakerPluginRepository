@@ -33,7 +33,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "c9195cb732de9c050c27270e66d5191be3907e892257329973c3b61930a1f1740fbf3f26ffaa324196f0b3d9cdced5178fbe241a32f6a87fd35806a4b806d3d6",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.3.1-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/pipeline-template/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -78,7 +78,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b5de3b39304b6bb87a33af0e51b38db0e70c4de57658e12a185b31acf64cfcb6a7b718481e22398530279993f8279ef3d923cef4b9033ffd27e9c5f7f1536444",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.3.1-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/pipeline-template/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
       {
         "version": "1.0.2",
@@ -86,7 +86,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b5de3b39304b6bb87a33af0e51b38db0e70c4de57658e12a185b31acf64cfcb6a7b718481e22398530279993f8279ef3d923cef4b9033ffd27e9c5f7f1536444",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.3.1-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/pipeline-template/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
