@@ -76,7 +76,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "ee0972fb9ca4698a5a86acb236fbff7b6a5cc3c088701e91b2702a68fd72a20c41748a4021330d60936fdbad66aacaafc0c45664a5856bdc69f66b94af26b577",
+        "sha512sum": "8835e918170fd24d7c30cca29ef17199818ca104ddf08ddd0c0bfc681b3c50c1ce38a80413b6236ab0a0890f359221f4630c7331dac2d149bd8f7ebbfc2d8e58",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/pipeline-template/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
@@ -84,7 +84,7 @@
         "version": "1.0.2",
         "date": "2022-01-17T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "ee0972fb9ca4698a5a86acb236fbff7b6a5cc3c088701e91b2702a68fd72a20c41748a4021330d60936fdbad66aacaafc0c45664a5856bdc69f66b94af26b577",
+        "sha512sum": "8835e918170fd24d7c30cca29ef17199818ca104ddf08ddd0c0bfc681b3c50c1ce38a80413b6236ab0a0890f359221f4630c7331dac2d149bd8f7ebbfc2d8e58",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/pipeline-template/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
