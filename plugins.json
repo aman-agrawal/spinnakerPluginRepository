@@ -186,15 +186,15 @@
   {
   "id": "Armory.ObservabilityPlugin",
   "description": "An example of a PF4J-based plugin that provides a custom observability support.",
-  "provider": "https://github.com/opsmx",
+  "provider": "https://github.com/aman-agrawal",
   "releases": [
     {
       "version": "1.0.0",
-      "date": "2023-06-07T16:20:59.469168Z",
+      "date": "2023-10-26T04:36:17.136291491Z",
       "requires": "orca>=0.0.0,deck>=0.0.0",
-      "sha512sum": "e9ea9617520fa217ba192fe7d2004e6e621aebc6de23c6ca5ff28dbce15986068fbf4968ba28393c2c2668f34e27c969da87f647627f40517c0be712245acc4c",
+      "sha512sum": "771a86e12a49b1e3839cb34cc9649aba71676b7205337430a4136a124f21c051507aaf71c5aebdb9caad8609aa9024a713ab229a2448def17f228919b8383b6b",
       "state": "",
-      "url": "https://github.com/OpsMx/armory-observability-plugin/releases/download/v1.0.0/armory-observability-plugin-v1.4.2-SNAPSHOT.zip"
+      "url": "https://github.com/aman-agrawal/armory-observability-plugin/releases/download/v1.0/armory-observability-plugin-v1-SNAPSHOT.zip"
     }
   ]
 }
