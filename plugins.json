@@ -194,8 +194,7 @@
       "requires": "orca>=0.0.0,deck>=0.0.0",
       "sha512sum": "22bb2e651a271302ff2afbded85ed725a61a004f53a199c4ccc5a7c0deb95f72b8052f6aa3f7f63cec9c2081c04b7d2d87b5d9951fbe4ee7109592420cff7b53",
       "state": "",
-      "url": "https://github.com/aman-agrawal/armory-observability-plugin/releases/download/v1.2/armory-observability-plugin-v1.2-SNAPSHOT.zip
-"
+      "url": "https://github.com/aman-agrawal/armory-observability-plugin/releases/download/v1.2/armory-observability-plugin-v1.2-SNAPSHOT.zip"
     }
   ]
 }
