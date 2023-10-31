@@ -189,12 +189,12 @@
   "provider": "https://github.com/aman-agrawal",
   "releases": [
     {
-      "version": "1.0.0",
-      "date": "2023-10-31T06:31:56.741261448Z",
+      "version": "1.4.2.1",
+      "date": "2023-10-31T14:47:33.458155Z",
       "requires": "orca>=0.0.0,deck>=0.0.0",
-      "sha512sum": "22bb2e651a271302ff2afbded85ed725a61a004f53a199c4ccc5a7c0deb95f72b8052f6aa3f7f63cec9c2081c04b7d2d87b5d9951fbe4ee7109592420cff7b53",
+      "sha512sum": "493d29e03447af527e6c6e5df88ceffd1e388ff3496d0d926165893cce2c2efafcc3f2fb25809932d3a738bbe06aa6e1f6c043278dc732a00e794bcf9de56405",
       "state": "",
-      "url": "https://github.com/aman-agrawal/armory-observability-plugin/releases/download/v1.2/armory-observability-plugin-v1.2-SNAPSHOT.zip"
+      "url": "https://github.com/aman-agrawal/armory-observability-plugin/releases/download/v1.4.2.1/armory-observability-plugin-v1.4.2.1.zip"
     }
   ]
 }
